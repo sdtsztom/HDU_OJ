@@ -1,3 +1,7 @@
+/*
+ * 这是网上流传的错误代码
+ */
+ 
 #include<iostream>
 using namespace std;
 int main()

@@ -1,6 +1,8 @@
+/*
+ *矩阵快速幂做法，答案来自网上，放在这里用作参考
+ */
 #include<cstdio>
 #include<iostream>
-//矩阵快速幂做法，答案来自网上
 using namespace std;
 int juzhen[2][2],final[2][2];
 void jzcf1()

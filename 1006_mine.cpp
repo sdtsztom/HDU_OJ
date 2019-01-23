@@ -1,3 +1,7 @@
+/*
+ * 特点在于使用相对运动的观点去求解
+ */
+
 #include<iostream>
 #include<cmath>
 #include<iomanip>

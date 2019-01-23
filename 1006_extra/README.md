@@ -1,0 +1,1 @@
+这两个文件是因为我的代码一开始出现一些问题导致答案不太正确。因此我用网上的正确解法产生time interval record并与我的solution产生的time interval record对比，最终找出了bug。

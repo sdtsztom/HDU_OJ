@@ -1,3 +1,8 @@
+/* 
+ * 这是我所参考的代码，他给了我解决的灵感
+ * 我的解决方案请参见mine后缀的文件
+ */
+ 
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
